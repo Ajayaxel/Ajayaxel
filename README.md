@@ -17,7 +17,6 @@ I'm a self-taught developer with nearly 2 years of experience, excited about cra
 * Flutter,
 * JavaScript ,
 * React (Next.js),(+ SASS / TailwindCSS)
-* Node,Experss
 * MongoDB (Mongoose), SQL (SQLite, MySQL)
 * Nest.js (Express / Node.js)
 * React native Framework
